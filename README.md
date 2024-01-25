@@ -1,4 +1,4 @@
-This repository for the matlab and Python code associated with Heminway et al (submitted):
+This repository for the matlab and Python code associated with:
 
 Heminway, S.S., Cohn, N., Davis, E., White, A., Hein, C., Zinnert, J. _(submitted)_, Exploring ecological, morphological, and environmental controls on coastal foredune evolution at annual scales using a process-based model, _Sustainability_ 
 
